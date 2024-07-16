@@ -12,7 +12,9 @@ Pose estimator model: Pretrained Openpose body_25 model used to locate shoulder 
 Extracted cloth is blended into profile image based on shoulder location.
 
 # Screenshots
-    ![Screenshot 2024-07-13 123808](https://github.com/user-attachments/assets/3ce73007-6301-4f29-b355-9ee4553abcac) ![Screenshot 2024-07-13 132308](https://github.com/user-attachments/assets/daa7b790-b7ef-492d-b534-112f97be84a3)
+![Screenshot 2024-07-13 123808](https://github.com/user-attachments/assets/3ce73007-6301-4f29-b355-9ee4553abcac) 
+![resize-17211520291617883774Screenshot20240713132308](https://github.com/user-attachments/assets/a8deed05-3919-4480-a56e-efe44e957bfe)
+
 
 
 
